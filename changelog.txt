@@ -1,0 +1,8 @@
+Version 0.2
+Date: 11-07-2015
+Changes:
+- se creo el directorio funciones con los procedimientos calculo de edad y
+  registro de operaciones en el sistema.
+- Se agrego el archivo funciones_demo.js para realizar el envio asincrono de
+  datos por medio de ajax.
+- Se comentaron los modulos principales del toolkit y su implementacion
