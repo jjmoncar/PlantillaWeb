@@ -21,7 +21,7 @@ Description:
     <script type="text/javascript" src="../vendor/bootstrap/js/bootstrap.min.js"></script>
     <script type="text/javascript" src="../dist/js/formValidation.js"></script>
     <script type="text/javascript" src="../dist/js/framework/bootstrap.js"></script>
-    <script type="text/javascript" language="javascript" src="..dist/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" language="javascript" src="../dist/js/jquery.dataTables.min.js"></script>
     <script type="text/javascript" language="javascript" src="../dist/js/jquery-DT-pagination.js"></script>
     <script type="text/javascript" src="../dist/js/bootstrap-datepicker.js"></script>
 
